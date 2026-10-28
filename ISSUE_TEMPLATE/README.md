@@ -89,3 +89,5 @@ Placering og navngivning er afgørende. GitHub genkender kun issue-skabelonerne,
 `.github/ISSUE_TEMPLATE/`
 
 Omdøb ikke `.github` eller `ISSUE_TEMPLATE`, da GitHub så ikke kan genkende skabelonerne.
+
+⚠️ **GDPR:** `bug_report.yml` og `feature_request.yml` beder indmelderen om navn og e-mailadresse. I offentlige repositories bør dette vurderes af hensyn til GDPR. Fjern felterne fra skabelonerne, hvis I ikke ønsker at indsamle disse oplysninger.
